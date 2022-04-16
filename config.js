@@ -36,7 +36,7 @@ window.Config = {
     },
     {
       text: '🍉 西瓜博客',
-      url: 'https://space.bilibili.com/1272602094/'
+      url: 'https://314669.xyz/'
     }
   ]
 };
