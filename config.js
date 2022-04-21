@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: '站点检测-ZHK大佬的服务监测',
+  SiteName: '站点检测-ZHK大佬上线监测',
 
   // 站点链接
   SiteUrl: 'zhk.wenlei.club',
